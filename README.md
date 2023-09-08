@@ -8,7 +8,7 @@
 
 Стараюсь постоянно развиваться и находить наиболее оптимальные решения в написании кода. Самостоятельно преодолеваю трудности, которые возникают при программировании. Люблю работать. Вежлив и общителен.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-BoevAleksey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/draussen10) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:boev2016@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-BoevAleksey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/draussen10) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:boev2016@gmail.com)
 
 ---
 
