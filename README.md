@@ -4,9 +4,9 @@
 --- 
 ### :man_technologist: Обо мне:
 
-Я начинающий frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+Я frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
-Стараюсь постоянно развиваться и находить наиболее оптимальные решения в написании кода. Самостоятельно преодолеваю трудности, которые возникают при программировании. Люблю работать. Вежлив и общителен.
+В последнее время углубился в React. До этого имел опыт работы с Vue. 
 
 [![Telegram Badge](https://img.shields.io/badge/-BoevAleksey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/draussen10) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:boev2016@gmail.com)
 
