@@ -6,7 +6,7 @@
 
 Я frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
-В последнее время углубился в React. До этого имел опыт работы с Vue. 
+В настоящее время активно занимаюсь углублением своих знаний в React, Redux вместе с TypeScript. 
 
 [![Telegram Badge](https://img.shields.io/badge/-BoevAleksey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/draussen10) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:boev2016@gmail.com)
 
