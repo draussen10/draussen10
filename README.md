@@ -2,7 +2,7 @@
 # Привет, меня зовут Алексей!
 
 --- 
-### :man_technologist: Обо мне:
+### Обо мне:
 
 Я frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
